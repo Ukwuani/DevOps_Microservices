@@ -1,1 +1,5 @@
-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@github.io/Ukwuani/DevOps_Microservices.git
+NAME                       READY   STATUS    RESTARTS   AGE
+pythapp                    1/1     Running   0          38m
+pythapp-8676cb46fb-l88gb   1/1     Running   0          33m
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
